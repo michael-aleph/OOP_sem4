@@ -1,0 +1,15 @@
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\bin\Debug\net6.0\lab_7_OOP.exe
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\bin\Debug\net6.0\lab_7_OOP.deps.json
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\bin\Debug\net6.0\lab_7_OOP.runtimeconfig.json
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\bin\Debug\net6.0\lab_7_OOP.dll
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\bin\Debug\net6.0\lab_7_OOP.pdb
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\lab_7_OOP.csproj.AssemblyReference.cache
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\lab_7_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\lab_7_OOP.AssemblyInfoInputs.cache
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\lab_7_OOP.AssemblyInfo.cs
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\lab_7_OOP.csproj.CoreCompileInputs.cache
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\lab_7_OOP.dll
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\refint\lab_7_OOP.dll
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\lab_7_OOP.pdb
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\lab_7_OOP.genruntimeconfig.cache
+E:\STU_DYING\C# ООП 4 сем Шолохов-Білий\lab_7_OOP\obj\Debug\net6.0\ref\lab_7_OOP.dll
